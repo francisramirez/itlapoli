@@ -1,0 +1,10 @@
+D:\projects\itlapoli\itlapoli\itlapoli.Domian\bin\Debug\netstandard2.1\itlapoli.Domian.deps.json
+D:\projects\itlapoli\itlapoli\itlapoli.Domian\bin\Debug\netstandard2.1\itlapoli.Domian.dll
+D:\projects\itlapoli\itlapoli\itlapoli.Domian\bin\Debug\netstandard2.1\itlapoli.Domian.pdb
+D:\projects\itlapoli\itlapoli\itlapoli.Domian\obj\Debug\netstandard2.1\itlapoli.Domian.csproj.AssemblyReference.cache
+D:\projects\itlapoli\itlapoli\itlapoli.Domian\obj\Debug\netstandard2.1\itlapoli.Domian.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\itlapoli\itlapoli\itlapoli.Domian\obj\Debug\netstandard2.1\itlapoli.Domian.AssemblyInfoInputs.cache
+D:\projects\itlapoli\itlapoli\itlapoli.Domian\obj\Debug\netstandard2.1\itlapoli.Domian.AssemblyInfo.cs
+D:\projects\itlapoli\itlapoli\itlapoli.Domian\obj\Debug\netstandard2.1\itlapoli.Domian.csproj.CoreCompileInputs.cache
+D:\projects\itlapoli\itlapoli\itlapoli.Domian\obj\Debug\netstandard2.1\itlapoli.Domian.dll
+D:\projects\itlapoli\itlapoli\itlapoli.Domian\obj\Debug\netstandard2.1\itlapoli.Domian.pdb

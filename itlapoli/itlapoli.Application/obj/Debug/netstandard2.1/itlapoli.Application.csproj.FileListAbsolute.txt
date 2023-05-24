@@ -1,0 +1,10 @@
+D:\projects\itlapoli\itlapoli\itlapoli.Application\bin\Debug\netstandard2.1\itlapoli.Application.deps.json
+D:\projects\itlapoli\itlapoli\itlapoli.Application\bin\Debug\netstandard2.1\itlapoli.Application.dll
+D:\projects\itlapoli\itlapoli\itlapoli.Application\bin\Debug\netstandard2.1\itlapoli.Application.pdb
+D:\projects\itlapoli\itlapoli\itlapoli.Application\obj\Debug\netstandard2.1\itlapoli.Application.csproj.AssemblyReference.cache
+D:\projects\itlapoli\itlapoli\itlapoli.Application\obj\Debug\netstandard2.1\itlapoli.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\itlapoli\itlapoli\itlapoli.Application\obj\Debug\netstandard2.1\itlapoli.Application.AssemblyInfoInputs.cache
+D:\projects\itlapoli\itlapoli\itlapoli.Application\obj\Debug\netstandard2.1\itlapoli.Application.AssemblyInfo.cs
+D:\projects\itlapoli\itlapoli\itlapoli.Application\obj\Debug\netstandard2.1\itlapoli.Application.csproj.CoreCompileInputs.cache
+D:\projects\itlapoli\itlapoli\itlapoli.Application\obj\Debug\netstandard2.1\itlapoli.Application.dll
+D:\projects\itlapoli\itlapoli\itlapoli.Application\obj\Debug\netstandard2.1\itlapoli.Application.pdb

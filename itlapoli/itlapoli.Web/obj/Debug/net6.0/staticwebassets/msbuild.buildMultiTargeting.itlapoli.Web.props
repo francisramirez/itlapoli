@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\itlapoli.Web.props" />
+</Project>
